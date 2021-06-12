@@ -49,3 +49,6 @@
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=akshat-jjain&" alt="akshat-jjain" /></p>
 <p><img align="center" src="https://github-readme-stackoverflow.vercel.app/?userID=14786802" alt="akshat-jain" /></p>
   </details>
+## Stargazers
+
+[![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
