@@ -38,9 +38,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/akshtjain"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akshtjain" /></a></p><br><br>
-<details>
-  <summary><h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'></h2>
-  </summary>
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'></h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat-jjain&show_icons=true&locale=en&layout=compact" alt="akshat-jjain" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat-jjain&show_icons=true&locale=en" alt="akshat-jjain" /></p>
@@ -48,7 +46,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-jjain&" alt="akshat-jjain" /></p>
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=akshat-jjain&" alt="akshat-jjain" /></p>
 <p><img align="center" src="https://github-readme-stackoverflow.vercel.app/?userID=14786802" alt="akshat-jain" /></p>
-  </details>
-## Stargazers
+<h3 align="center" >Stargazers:</h3>
 
-[![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
+[![Stargazers repo roster for @akshat-jjain/akshat-jjain](https://reporoster.com/stars/akshat-jjain/akshat-jjain)](https://github.com/akshat-jjain/akshat-jjain/stargazers)
