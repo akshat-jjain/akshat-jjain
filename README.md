@@ -55,7 +55,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/akshatjain"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akshtjain" /></a></p><br><br>
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'></h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat-jjain&show_icons=true&locale=en&layout=compact" alt="akshat-jjain" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat-jjain&show_icons=true&locale=en&layout=compact&langs_count=8" alt="akshat-jjain" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat-jjain&show_icons=true&locale=en&count_private=true" alt="akshat-jjain" /></p>
 
