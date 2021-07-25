@@ -38,11 +38,9 @@
 <a href="https://codeforces.com/profile/akshat-jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="akshat-jain" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akshat_jjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshat_jjain" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@akshat-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@akshat-jain" height="30" width="40" /></a>
- <!--
   <a href="https://hashnode.com/@akshat-jain/joinme"><img src="" alt="hashnode" width="40" height="40" ></a>
   <a href="https://akshatjain.bio.link"><img src="" alt="bio.link" width="40" height="40" ></a>
   <a href="https://awsreskill.com/signup?source=f6e81e99&medium=direct"><img src="" alt="aws reskill" width="40" height="40" ></a>
---->
 </p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
