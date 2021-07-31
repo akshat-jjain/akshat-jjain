@@ -54,7 +54,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-# YouTube
+# Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [[NEW] - Build Interactive Apps with Google Assistant: Challenge Lab - [GCP325]](https://www.youtube.com/watch?v=03HzBjdGpwg)
 - [[NEW] - BigQuery: Qwik Start - Command Line - [GCP071]](https://www.youtube.com/watch?v=hP0hj9y2330)
@@ -63,7 +63,7 @@
 - [[NEW] - Cloud Endpoints Qwik Start - [GCP164]](https://www.youtube.com/watch?v=z0NbtfvBPc8)
 <!-- YOUTUBE:END -->
 
-# StackOverflow Activity
+# My StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [Answer by Akshat Jain for Is this code correct to add a background image using css?](https://stackoverflow.com/questions/68356754/is-this-code-correct-to-add-a-background-image-using-css/68357216#68357216)
 - [Answer by Akshat Jain for Resetting Table content on button click wont work](https://stackoverflow.com/questions/68342492/resetting-table-content-on-button-click-wont-work/68342769#68342769)
