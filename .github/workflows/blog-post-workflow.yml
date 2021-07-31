@@ -1,3 +1,4 @@
+/*
 name: Latest blog post workflow
 on:
   schedule:
@@ -14,3 +15,4 @@ jobs:
           comment_tag_name: "BLOG-POST-LIST"
           commit_message: "Updated readme with the latest blog data"
           feed_list: "https://dev.to/feed/akshat-jain, https://medium.com/feed/@akshat9983,https://akshat-jain.hashnode.dev/rss.xml"
+*/
