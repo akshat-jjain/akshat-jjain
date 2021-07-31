@@ -56,6 +56,11 @@
 
 # YouTube
 <!-- YOUTUBE:START -->
+- [[NEW] - Build Interactive Apps with Google Assistant: Challenge Lab - [GCP325]](https://www.youtube.com/watch?v=03HzBjdGpwg)
+- [[NEW] - BigQuery: Qwik Start - Command Line - [GCP071]](https://www.youtube.com/watch?v=hP0hj9y2330)
+- [[NEW] - APIs Explorer: Qwik Start - [GCP277]](https://www.youtube.com/watch?v=NbqVSmT0CDM)
+- [[NEW] - Qwiklabs - APIs Explorer Cloud Storage - [GSP421]](https://www.youtube.com/watch?v=-k4akmnaq2Y)
+- [[NEW] - Cloud Endpoints Qwik Start - [GCP164]](https://www.youtube.com/watch?v=z0NbtfvBPc8)
 <!-- YOUTUBE:END -->
 
 # StackOverflow Activity
