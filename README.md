@@ -78,8 +78,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat-jjain&show_icons=true&locale=en&layout=compact&langs_count=10" alt="akshat-jjain" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat-jjain&show_icons=true&locale=en&count_private=true&include_all_commits=true&cache_seconds=3600" alt="akshat-jjain" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-jjain&" alt="akshat-jjain" />
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=akshat-jjain&" alt="akshat-jjain" /></p>
-<!--<p><img align="center" src="https://github-readme-stackoverflow.vercel.app/?userID=14786802" alt="akshat-jain" /></p>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=akshat-jjain&" alt="akshat-jjain" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=akshat-jjain" alt="akshat-jjain" />
+<!-- <img align="center" src="https://github-readme-stackoverflow.vercel.app/?userID=14786802" alt="akshat-jain" /> --->
+</p>
 <!--<h3 align="center" >Stargazers:</h3>
 
 [![Stargazers repo roster for @akshat-jjain/akshat-jjain](https://reporoster.com/stars/akshat-jjain/akshat-jjain)](https://github.com/akshat-jjain/akshat-jjain/stargazers)
