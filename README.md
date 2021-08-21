@@ -80,7 +80,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-jjain&" alt="akshat-jjain" />
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=akshat-jjain&" alt="akshat-jjain" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=akshat-jjain" alt="akshat-jjain" />
-<!-- <img align="center" src="https://github-readme-stackoverflow.vercel.app/?userID=14786802" alt="akshat-jain" /> --->
+<img align="center" src="https://github-readme-stackoverflow.vercel.app/?userID=14786802" alt="akshat-jain" />
 </p>
 <!--<h3 align="center" >Stargazers:</h3>
 
