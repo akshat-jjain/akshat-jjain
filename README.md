@@ -101,7 +101,7 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-jjain&cache_seconds=1800" alt="akshat-jjain" />
 <img align="left" src="https://activity-graph.herokuapp.com/graph?username=akshat-jjain&cache_seconds=1800" alt="akshat-jjain" />
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=akshat-jjain&cache_seconds=1800" alt="akshat-jjain" />
-<img align="left" src="https://stackoverflow-card.vercel.app/?userID=14786802" alt="akshat-jjain" />
+<!-- <img align="left" src="https://stackoverflow-card.vercel.app/?userID=14786802" alt="akshat-jjain" />
 <!-- <img align="left" src="https://github-readme-stackoverflow.vercel.app/?userID=14786802" alt="akshat-jain" /> -->
-<!--<img align="left" src="https://reporoster.com/stars/akshat-jjain/akshat-jjain" alt="akshat-jjain" />-->
+<!-- <img align="left" src="https://reporoster.com/stars/akshat-jjain/akshat-jjain" alt="akshat-jjain" />-->
 </p>
