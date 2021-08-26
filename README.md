@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div>
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> , I'm Akshat Jain</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=akshat-jjain&label=Profile%20views&color=0e75b6&style=flat-square" alt="akshat-jjain" /> 
