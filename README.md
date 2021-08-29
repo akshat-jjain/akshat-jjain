@@ -108,11 +108,15 @@
 <img align="left" src="https://activity-graph.herokuapp.com/graph?username=akshat-jjain&cache_seconds=1800" alt="akshat-jjain" />
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=akshat-jjain&cache_seconds=1800" alt="akshat-jjain" />
 </p>
+<br>
 <h2 align="left"> My Wakatime Stats </h2>
 <p align="left" >
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=akshat_jain&layout=compact&cache_seconds=1800" alt="akshat-jjain" />
 </p>
-<!-- <img align="left" src="https://stackoverflow-card.vercel.app/?userID=14786802" alt="akshat-jjain" />
-<!-- <img align="left" src="https://github-readme-stackoverflow.vercel.app/?userID=14786802" alt="akshat-jain" /> -->
-<!-- <img align="left" src="https://reporoster.com/stars/akshat-jjain/akshat-jjain" alt="akshat-jjain" />-->
+<!-- 
+<h2 align="left" > My Stackoverflow Stats </h2>
+<img align="left" src="https://stackoverflow-card.vercel.app/?userID=14786802" alt="akshat-jjain" />
+<img align="left" src="https://github-readme-stackoverflow.vercel.app/?userID=14786802" alt="akshat-jain" />
+<img align="left" src="https://reporoster.com/stars/akshat-jjain/akshat-jjain" alt="akshat-jjain" />
 </p>
+--->
