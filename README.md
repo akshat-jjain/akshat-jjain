@@ -100,6 +100,9 @@
 <a href="https://www.buymeacoffee.com/akshatjain"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akshtjain" /></a>
 </p>
 <br><br>
+<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=akshat_jain"/>
+<br>
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'></h2>
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat-jjain&show_icons=true&locale=en&layout=compact&langs_count=20" alt="akshat-jjain" />
@@ -108,11 +111,7 @@
 <img align="left" src="https://activity-graph.herokuapp.com/graph?username=akshat-jjain&cache_seconds=1800" alt="akshat-jjain" />
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=akshat-jjain&cache_seconds=1800" alt="akshat-jjain" />
 </p>
-<br>
-<h2 align="left"> My Wakatime Stats </h2>
-<p align="left" >
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=akshat_jain&layout=compact&cache_seconds=1800" alt="akshat-jjain" />
-</p>
+
 <!-- 
 <h2 align="left" > My Stackoverflow Stats </h2>
 <img align="left" src="https://stackoverflow-card.vercel.app/?userID=14786802" alt="akshat-jjain" />
