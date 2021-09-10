@@ -22,7 +22,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
-<a href="https://codepen.io/akshat_jjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akshat_jjain" height="30" width="40" /></a>
+<a href="https://codepen.io/akshat-jjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akshat_jjain" height="30" width="40" /></a>
 <a href="https://dev.to/akshat_jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="akshat_jain" height="30" width="40" /></a>
 <a href="https://twitter.com/akshat_jjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshat_jjain" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akshat-jjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-jjain" height="30" width="40" /></a>
