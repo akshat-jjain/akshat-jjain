@@ -124,3 +124,4 @@
 <img align="left" src="https://reporoster.com/stars/akshat-jjain/akshat-jjain" alt="akshat-jjain" />
 </p>
 --->
+![snake gif](https://github.com/akshat-jjain/akshat-jjain/blob/output/github-contribution-grid-snake.gif)
