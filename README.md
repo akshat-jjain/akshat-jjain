@@ -127,5 +127,5 @@
 --->
 <h2 align="left" > Watch a snake-eating🐍 my contribution graph </h2>
 <p>
-![snake gif](https://github.com/akshat-jjain/akshat-jjain/blob/output/github-contribution-grid-snake.gif)
+<img align="left" src="https://github.com/akshat-jjain/akshat-jjain/blob/output/github-contribution-grid-snake.gif" />
 </p>
