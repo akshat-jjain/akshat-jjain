@@ -124,7 +124,7 @@
 <img align="left" src="https://github-readme-stackoverflow.vercel.app/?userID=14786802" alt="akshat-jain" />
 <img align="left" src="https://reporoster.com/stars/akshat-jjain/akshat-jjain" alt="akshat-jjain" />
 </p>
---->
+
 <h2 > Watch a snake-eating🐍 my contribution graph </h2>
 <p align="left">
 <img align="left" src="https://github.com/akshat-jjain/akshat-jjain/blob/output/github-contribution-grid-snake.gif" />
