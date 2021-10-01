@@ -84,12 +84,12 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
-[![[NEW] - Build Interactive Apps with Google Assistant: Challenge Lab - [GCP325]](https://freshidea.com/jonah/app/youtube-card/?id=03HzBjdGpwg)](https://www.youtube.com/watch?v=03HzBjdGpwg "[NEW] - Build Interactive Apps with Google Assistant: Challenge Lab - [GCP325]")
-[![[NEW] - BigQuery: Qwik Start - Command Line - [GCP071]](https://freshidea.com/jonah/app/youtube-card/?id=hP0hj9y2330)](https://www.youtube.com/watch?v=hP0hj9y2330 "[NEW] - BigQuery: Qwik Start - Command Line - [GCP071]")
-[![[NEW] - APIs Explorer: Qwik Start - [GCP277]](https://freshidea.com/jonah/app/youtube-card/?id=NbqVSmT0CDM)](https://www.youtube.com/watch?v=NbqVSmT0CDM "[NEW] - APIs Explorer: Qwik Start - [GCP277]")
-[![[NEW] - Qwiklabs - APIs Explorer Cloud Storage - [GSP421]](https://freshidea.com/jonah/app/youtube-card/?id=-k4akmnaq2Y)](https://www.youtube.com/watch?v=-k4akmnaq2Y "[NEW] - Qwiklabs - APIs Explorer Cloud Storage - [GSP421]")
-[![[NEW] - Cloud Endpoints Qwik Start - [GCP164]](https://freshidea.com/jonah/app/youtube-card/?id=z0NbtfvBPc8)](https://www.youtube.com/watch?v=z0NbtfvBPc8 "[NEW] - Cloud Endpoints Qwik Start - [GCP164]")
-[![[NEW] - App Dev Storing Image and Video Files in Cloud Storage - Python - [GCP185]](https://freshidea.com/jonah/app/youtube-card/?id=etQrcm7hhOY)](https://www.youtube.com/watch?v=etQrcm7hhOY "[NEW] - App Dev Storing Image and Video Files in Cloud Storage - Python - [GCP185]")<!-- YOUTUBE:END -->
+- [[NEW] - Build Interactive Apps with Google Assistant: Challenge Lab - [GCP325]](https://www.youtube.com/watch?v=03HzBjdGpwg)
+- [[NEW] - BigQuery: Qwik Start - Command Line - [GCP071]](https://www.youtube.com/watch?v=hP0hj9y2330)
+- [[NEW] - APIs Explorer: Qwik Start - [GCP277]](https://www.youtube.com/watch?v=NbqVSmT0CDM)
+- [[NEW] - Qwiklabs - APIs Explorer Cloud Storage - [GSP421]](https://www.youtube.com/watch?v=-k4akmnaq2Y)
+- [[NEW] - Cloud Endpoints Qwik Start - [GCP164]](https://www.youtube.com/watch?v=z0NbtfvBPc8)
+<!-- YOUTUBE:END -->
 
 # My StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
