@@ -117,7 +117,7 @@
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=akshat-jjain&cache_seconds=1800" alt="akshat-jjain" />
 </p>
 
- 
+<!--
 <h2 align="left" > My Stackoverflow Stats </h2>
 <p align="left">
 <img align="left" src="https://stackoverflow-card.vercel.app/?userID=14786802" alt="akshat-jjain" />
