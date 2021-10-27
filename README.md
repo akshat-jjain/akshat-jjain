@@ -23,25 +23,25 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
 <a href="https://codepen.io/akshat-jjain" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="akshat_jjain" /></a>
-<a href="https://dev.to/akshat_jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="akshat_jain" /></a>
+<a href="https://dev.to/akshat_jain" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="akshat_jain" /></a>
 <a href="https://twitter.com/akshat_jjain" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="akshat_jjain" /></a>
 <a href="https://linkedin.com/in/akshat-jjain" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="akshat-jjain" /></a>
 <a href="https://stackoverflow.com/users/14786802" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="14786802" /></a>
-<a href="https://codesandbox.com/akshatjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="akshatjain" /></a>
-<a href="https://kaggle.com/akshatjain13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akshatjain13" /></a>
+<a href="https://codesandbox.com/akshatjain" target="blank"><img align="center" src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="akshatjain" /></a>
+<a href="https://kaggle.com/akshatjain13" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="akshatjain13" /></a>
 <a href="https://fb.com/akshat9983" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="akshat9983" /></a>
 <a href="https://instagram.com/akshat_jjain" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="akshat_jjain" /></a>
 <a href="https://dribbble.com/akshat-jain" target="blank"><img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="akshat-jain" /></a>
 <a href="https://www.behance.net/akshat-jain" target="blank"><img align="center" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="akshat-jain" /></a>
-<a href="https://akshat-jain.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akshat-jain" /></a>
-<a href="https://www.youtube.com/channel/UCQUEgfYbcz7pv36NoAv7S-Q?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sdhajdhj" /></a>
-<a href="https://www.codechef.com/users/akshat_jjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akshat_jjain" /></a>
+<a href="https://akshat-jain.medium.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@akshat-jain" /></a>
+<a href="https://www.youtube.com/channel/UCQUEgfYbcz7pv36NoAv7S-Q?sub_confirmation=1" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="sdhajdhj" /></a>
+<a href="https://www.codechef.com/users/akshat_jjain" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="akshat_jjain" /></a>
 <a href="https://www.hackerrank.com/akshat_jjain" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="akshat_jjain" /></a>
-<a href="https://codeforces.com/profile/akshat-jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="akshat-jain" /></a>
-<a href="https://www.leetcode.com/akshat_jjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshat_jjain" /></a>
+<a href="https://codeforces.com/profile/akshat-jain" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="akshat-jain" /></a>
+<a href="https://www.leetcode.com/akshat_jjain" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="akshat_jjain" /></a>
 <a href="https://www.hackerearth.com/@akshat-jain" target="blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="@akshat-jain" /></a>
-<a href="https://auth.geeksforgeeks.org/user/akshat9983" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akshat9983" /></a>
-<a href="https://www.topcoder.com/members/akshat-jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="akshat-jain" /></a>
+<a href="https://auth.geeksforgeeks.org/user/akshat9983" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-35914c?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="akshat9983" /></a>
+<a href="https://www.topcoder.com/members/akshat-jain" target="blank"><img align="center" src="https://img.shields.io/badge/Topcoder-black?style=for-the-badge&logo=topcoder&logoColor=white" alt="akshat-jain" /></a>
 <!-- <a href="https://hashnode.com/@akshat-jain/joinme"><img src="" alt="hashnode" width="40" height="40" ></a> -->
 <!-- <a href="https://akshatjain.bio.link"><img src="" alt="bio.link" width="40" height="40" ></a> -->
 <!-- <a href="https://awsreskill.com/signup?source=f6e81e99"><img src="" alt="aws reskill" width="40" height="40" ></a> -->
