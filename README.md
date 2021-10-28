@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+<img  height = "250px" src="https://magiccopy.xyz/assets/images/hadder.gif" alt="cover" />
 </div>
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> , I'm Akshat Jain</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
