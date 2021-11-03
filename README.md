@@ -46,11 +46,12 @@
 <!-- <a href="https://akshatjain.bio.link"><img src="" alt="bio.link" ></a> -->
 <!-- <a href="https://awsreskill.com/signup?source=f6e81e99"><img src="" alt="aws reskill" ></a> -->
 </p>
-
+<!--
 <h2>Currently Listening</h2> 
 <p align="left">
 <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=9utyijcnjkr1rqdp5hoqk6qop&cover_image=true&theme=compact" alt="akshat-jjain">
 </p>
+--->
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" /> </a> 
