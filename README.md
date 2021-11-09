@@ -43,15 +43,13 @@
 <a href="https://www.hackerearth.com/@akshat-jain" target="blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="@akshat-jain" /></a>
 <a href="https://auth.geeksforgeeks.org/user/akshat9983" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-35914c?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="akshat9983" /></a>
 <a href="https://www.topcoder.com/members/akshat-jain" target="blank"><img align="center" src="https://img.shields.io/badge/Topcoder-black?style=for-the-badge&logo=topcoder&logoColor=white" alt="akshat-jain" /></a>
-<!-- <a href="https://hashnode.com/@akshat-jain/joinme"><img src="" alt="hashnode" ></a> -->
-<!-- <a href="https://akshatjain.bio.link"><img src="" alt="bio.link" ></a> -->
-<!-- <a href="https://awsreskill.com/signup?source=f6e81e99"><img src="" alt="aws reskill" ></a> -->
+<!-- <a href="https://hashnode.com/@akshat-jain/joinme"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode" /></a> -->
+<!-- <a href="https://akshatjain.bio.link"><img align="center" src="" alt="bio.link" /></a> -->
+<!-- <a href="https://awsreskill.com/signup?source=f6e81e99"><img align="center" src="" alt="aws reskill" /></a> -->
 </p>
 <!--
 <h2>Currently Listening</h2> 
-<p align="left">
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=9utyijcnjkr1rqdp5hoqk6qop&cover_image=true&theme=compact" alt="akshat-jjain">
-</p>
+<p align="left"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=9utyijcnjkr1rqdp5hoqk6qop&cover_image=true&theme=compact" alt="akshat-jjain"></p>
 --->
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="left"> 
@@ -121,19 +119,16 @@
 
 <!--
 <h2 align="left" > My Stackoverflow Stats </h2>
-<p align="left">
-<img align="left" src="https://stackoverflow-card.vercel.app/?userID=14786802" alt="akshat-jjain" />
+<p align="left"><img align="left" src="https://stackoverflow-card.vercel.app/?userID=14786802" alt="akshat-jjain" /></p>
 <!--
-<img align="left" src="https://github-readme-stackoverflow.vercel.app/?userID=14786802" alt="akshat-jain" />
-<img align="left" src="https://reporoster.com/stars/akshat-jjain/akshat-jjain" alt="akshat-jjain" />
-</p>
+<p><img align="left" src="https://github-readme-stackoverflow.vercel.app/?userID=14786802" alt="akshat-jain" /></p>
+<p><img align="left" src="https://reporoster.com/stars/akshat-jjain/akshat-jjain" alt="akshat-jjain" /></p>
 --->
 
 <!--
 <div>
 <h2 > Watch a snake-eating🐍 my contribution graph </h2>
-<p align="left">
-<img align="left" src="https://github.com/akshat-jjain/akshat-jjain/blob/output/github-contribution-grid-snake.gif" />
+<p align="left"><img align="left" src="https://github.com/akshat-jjain/akshat-jjain/blob/output/github-contribution-grid-snake.gif" />
 </p>
 </div>
 --->
