@@ -1,5 +1,5 @@
 <div align="center">
-<img  height = "250px" src="https://magiccopy.xyz/assets/images/hadder.gif" alt="cover" />
+<img  height = "250px" src="https://readme-typing-svg.herokuapp.com/?font=Yanone+Kaffeesatz&color=7868E6&size=64&center=true&vCenter=true&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I%27m+Akshat+Jain%2C;A+passionate+full+stack+developer+from+India" alt="cover" />
 </div>
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> , I'm Akshat Jain</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
