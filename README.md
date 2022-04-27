@@ -84,11 +84,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[NEW] - Unboxing Google Cloud Swags | 30Days of Google Cloud](https://www.youtube.com/watch?v=3u5eZdFnh8o)
+- [[NEW] - Claim Credits Tutorial | Subscription | Code with AJ](https://www.youtube.com/watch?v=YZNnWN6QFLI)
 - [[NEW] - Unboxing Google Cloud Swags | Havells Kettle  | Learn to Earn](https://www.youtube.com/watch?v=BioywSxjcEQ)
 - [[NEW] - Analyzing Natality Data Using AI Platform and BigQuery - [GCP012]](https://www.youtube.com/watch?v=tNbfb_vjhnc)
 - [[NEW] - Build Interactive Apps with Google Assistant: Challenge Lab - [GCP325]](https://www.youtube.com/watch?v=03HzBjdGpwg)
-- [[NEW] - BigQuery: Qwik Start - Command Line - [GCP071]](https://www.youtube.com/watch?v=hP0hj9y2330)
-- [[NEW] - APIs Explorer: Qwik Start - [GCP277]](https://www.youtube.com/watch?v=NbqVSmT0CDM)
 <!-- YOUTUBE:END -->
 
 # My StackOverflow Activity
