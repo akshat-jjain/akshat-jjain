@@ -84,11 +84,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[NEW] - Unboxing Google Cloud Swags | Google Cloud Hoodie  | Learn to Earn](https://www.youtube.com/watch?v=6VJ94x7DO2Y)
 - [[NEW] - A Tour of Cloud IOT Core  - [GCP224]](https://www.youtube.com/watch?v=CfGEanecyPU)
 - [[NEW] - Unboxing Google Cloud Swags | 30Days of Google Cloud](https://www.youtube.com/watch?v=3u5eZdFnh8o)
 - [[NEW] - How to Claim Credits Tutorial | Subscription | Google Cloud Facilitator | Code with AJ](https://www.youtube.com/watch?v=YZNnWN6QFLI)
 - [[NEW] - Unboxing Google Cloud Swags | Google Havells Electric Kettle  | Learn to Earn](https://www.youtube.com/watch?v=BioywSxjcEQ)
-- [[NEW] - Analyzing Natality Data Using AI Platform and BigQuery - [GCP012]](https://www.youtube.com/watch?v=tNbfb_vjhnc)
 <!-- YOUTUBE:END -->
 
 # My StackOverflow Activity
