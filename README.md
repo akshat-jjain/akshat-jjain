@@ -5,7 +5,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> 
-<a href="https://twitter.com/akshat_jjain" target="blank"><img src="https://img.shields.io/twitter/follow/akshat_jjain?logo=twitter&style=for-the-badge" alt="akshat_jjain" /> </a> 
+<a href="https://twitter.com/akshatjain_13" target="blank"><img src="https://img.shields.io/twitter/follow/akshatjain_13?logo=twitter&style=for-the-badge" alt="akshatjain_13" /> </a> 
 <img src="https://komarev.com/ghpvc/?username=akshat-jjain&label=Profile%20views&color=0e75b6&style=flat-square" alt="akshat-jjain" /> 
 </p>
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
