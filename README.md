@@ -84,11 +84,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[NEW] - Set Up Network and HTTP Load Balancers - [GCP007]](https://www.youtube.com/watch?v=hWunsf58CRE)
 - [[NEW] - Kubernetes Engine: Qwik Start - [GCP100]](https://www.youtube.com/watch?v=xH-v7z06znY)
 - [[NEW] - Getting Started with Cloud Shell and gcloud - [GCP002]](https://www.youtube.com/watch?v=0kqhzQsFnvQ)
 - [[NEW] - Creating A Virtual Machine  - [GCP001]](https://www.youtube.com/watch?v=J2k2JrZ4Jwk)
 - [[NEW] - Unboxing Google Cloud Swags | Google Cloud Hoodie  | Learn to Earn](https://www.youtube.com/watch?v=6VJ94x7DO2Y)
-- [[NEW] - A Tour of Cloud IOT Core  - [GCP224]](https://www.youtube.com/watch?v=CfGEanecyPU)
 <!-- YOUTUBE:END -->
 
 # My StackOverflow Activity
