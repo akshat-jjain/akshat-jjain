@@ -84,11 +84,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[NEW] - Google Cloud Pub/Sub: Qwik Start - Command Line - [GCP095]](https://www.youtube.com/watch?v=A9IlzN6UESk)
 - [[NEW] - Cloud Functions Qwik Start - Console - [GCP081]](https://www.youtube.com/watch?v=NlysAskJXr8)
 - [[NEW] - Cloud Monitoring Qwik Start - [GCP089]](https://www.youtube.com/watch?v=0UMjIkPoKPo)
 - [[NEW] - Create and Manage Cloud Resources Challenge Lab - [GCP313]](https://www.youtube.com/watch?v=CjVlbv5GmKU)
 - [[NEW] - Cloud IAM Qwik Start - [GCP064]](https://www.youtube.com/watch?v=tPxbInY2u-A)
-- [[NEW] - Cloud Storage Qwik Start - Cloud Console - [GCP073]](https://www.youtube.com/watch?v=7zImUqof1o0)
 <!-- YOUTUBE:END -->
 
 # My StackOverflow Activity
