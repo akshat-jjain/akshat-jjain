@@ -84,11 +84,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[NEW] - Cloud Monitoring Qwik Start - [GCP089]](https://www.youtube.com/watch?v=0UMjIkPoKPo)
 - [[NEW] - Create and Manage Cloud Resources Challenge Lab - [GCP313]](https://www.youtube.com/watch?v=CjVlbv5GmKU)
 - [[NEW] - Cloud IAM Qwik Start - [GCP064]](https://www.youtube.com/watch?v=tPxbInY2u-A)
 - [[NEW] - Cloud Storage Qwik Start - Cloud Console - [GCP073]](https://www.youtube.com/watch?v=7zImUqof1o0)
 - [[NEW] - Set Up Network and HTTP Load Balancers - [GCP007]](https://www.youtube.com/watch?v=hWunsf58CRE)
-- [[NEW] - Kubernetes Engine: Qwik Start - [GCP100]](https://www.youtube.com/watch?v=xH-v7z06znY)
 <!-- YOUTUBE:END -->
 
 # My StackOverflow Activity
