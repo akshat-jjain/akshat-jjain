@@ -84,11 +84,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[NEW] - Multiple VPC Networks - [GCP211]](https://www.youtube.com/watch?v=yUSXOeTeuzg)
 - [[NEW] - Perform Foundational Infrastructure Tasks in Google Cloud Challenge Lab - [GCP315]](https://www.youtube.com/watch?v=lDrIVVd46cU)
 - [[NEW] - User Authentication Identity-Aware Proxy - [GCP499]](https://www.youtube.com/watch?v=gKz_qSTOMq8)
 - [[NEW] - Google Cloud Pub/Sub: Qwik Start - Command Line - [GCP095]](https://www.youtube.com/watch?v=A9IlzN6UESk)
 - [[NEW] - Cloud Functions Qwik Start - Console - [GCP081]](https://www.youtube.com/watch?v=NlysAskJXr8)
-- [[NEW] - Cloud Monitoring Qwik Start - [GCP089]](https://www.youtube.com/watch?v=0UMjIkPoKPo)
 <!-- YOUTUBE:END -->
 
 # My StackOverflow Activity
