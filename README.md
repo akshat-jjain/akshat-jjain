@@ -84,11 +84,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[NEW] - Build and Secure Networks in Google Cloud Challenge Lab - [GSP322]](https://www.youtube.com/watch?v=wKctzm82pnM)
 - [[NEW] - HTTP Load Balancer with Cloud Armor - [GSP215]](https://www.youtube.com/watch?v=vqemSYw5q38)
 - [[NEW] - VPC Networks - Controlling Access - [GCP213]](https://www.youtube.com/watch?v=IFnC4LDe8yw)
 - [[NEW] - Multiple VPC Networks - [GCP211]](https://www.youtube.com/watch?v=yUSXOeTeuzg)
 - [[NEW] - Perform Foundational Infrastructure Tasks in Google Cloud Challenge Lab - [GCP315]](https://www.youtube.com/watch?v=lDrIVVd46cU)
-- [[NEW] - User Authentication Identity-Aware Proxy - [GCP499]](https://www.youtube.com/watch?v=gKz_qSTOMq8)
 <!-- YOUTUBE:END -->
 
 # My StackOverflow Activity
