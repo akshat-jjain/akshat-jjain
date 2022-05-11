@@ -85,10 +85,10 @@
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [[NEW] - Orchestrating the Cloud with Kubernetes - [GCP021]](https://www.youtube.com/watch?v=TK_59K3Euwg)
+- [[NEW] - Managing Deployments Using Kubernetes Engine - [GSP053]](https://www.youtube.com/watch?v=knq_uo5rY5M)
 - [[NEW] - Introduction to Docker - [GSP055]](https://www.youtube.com/watch?v=2RhucWgpwKo)
 - [[NEW] - Google Cloud Packet Mirroring with OpenSource IDS - [GSP474]](https://www.youtube.com/watch?v=jk2_AxGZ3ig)
 - [[NEW] - Build and Secure Networks in Google Cloud Challenge Lab - [GSP322]](https://www.youtube.com/watch?v=wKctzm82pnM)
-- [[NEW] - HTTP Load Balancer with Cloud Armor - [GSP215]](https://www.youtube.com/watch?v=vqemSYw5q38)
 <!-- YOUTUBE:END -->
 
 # My StackOverflow Activity
