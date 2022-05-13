@@ -84,11 +84,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[NEW] - Continuous Delivery with Jenkins in Kubernetes Engine - [GSP051]](https://www.youtube.com/watch?v=k1OlW8u-kJo)
 - [[NEW] - Implement DevOps in Google Cloud Challenge Lab - [GSP330]](https://www.youtube.com/watch?v=lLDrmbOMtto)
 - [[NEW] - Deploy Kubernetes Load Balancer Service with Terraform - [GSP233]](https://www.youtube.com/watch?v=TSOlVEugLcY)
 - [[NEW] - Cloud Source Repositories Qwik Start - [GSP121]](https://www.youtube.com/watch?v=V5Q3VffUxwI)
 - [[NEW] - Orchestrating the Cloud with Kubernetes - [GCP021]](https://www.youtube.com/watch?v=TK_59K3Euwg)
-- [[NEW] - Managing Deployments Using Kubernetes Engine - [GSP053]](https://www.youtube.com/watch?v=knq_uo5rY5M)
 <!-- YOUTUBE:END -->
 
 # My StackOverflow Activity
