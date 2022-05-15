@@ -84,11 +84,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[NEW] - Troubleshooting Workloads on GKE for Site Reliability Engineers - [GSP902]](https://www.youtube.com/watch?v=74WgIqQarR4)
 - [[NEW] - Set Up and Configure a Cloud Environment in Google Cloud Challenge Lab - [GSP321]](https://www.youtube.com/watch?v=OcOlNBzA4vU)
 - [[NEW] - Introduction to SQL for BigQuery and Cloud SQL - [GSP281]](https://www.youtube.com/watch?v=G69EYQPfOek)
 - [[NEW] - Deploy to Kubernetes in Google Cloud: Challenge Lab - [GSP318]](https://www.youtube.com/watch?v=6iqMeYbbqMI)
 - [[NEW] - Continuous Delivery with Jenkins in Kubernetes Engine - [GSP051]](https://www.youtube.com/watch?v=k1OlW8u-kJo)
-- [[NEW] - Implement DevOps in Google Cloud Challenge Lab - [GSP330]](https://www.youtube.com/watch?v=lLDrmbOMtto)
 <!-- YOUTUBE:END -->
 
 # My StackOverflow Activity
