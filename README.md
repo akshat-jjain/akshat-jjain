@@ -84,11 +84,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[NEW] - Examining BigQuery Billing Data in Google Sheets - [GSP623]](https://www.youtube.com/watch?v=zL3_lYw1OqI)
 - [[NEW] - Visualizing Billing Data with Google Data Studio - [GSP622]](https://www.youtube.com/watch?v=5cJTwGvoA6E)
 - [[NEW] - Analyzing Billing Data with BigQuery - [GSP621]](https://www.youtube.com/watch?v=EnIrPdNQBow)
 - [[NEW] - Troubleshooting Workloads on GKE for Site Reliability Engineers - [GSP902]](https://www.youtube.com/watch?v=74WgIqQarR4)
 - [[NEW] - Set Up and Configure a Cloud Environment in Google Cloud Challenge Lab - [GSP321]](https://www.youtube.com/watch?v=OcOlNBzA4vU)
-- [[NEW] - Introduction to SQL for BigQuery and Cloud SQL - [GSP281]](https://www.youtube.com/watch?v=G69EYQPfOek)
 <!-- YOUTUBE:END -->
 
 # My StackOverflow Activity
