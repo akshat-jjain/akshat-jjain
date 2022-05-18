@@ -84,11 +84,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[NEW] - Deploying a Fault-Tolerant Microsoft Active Directory Environment - [GSP118]](https://www.youtube.com/watch?v=P0WGiouOfCk)
 - [[NEW] - Setting up Jenkins on Kubernetes Engine - [GSP117]](https://www.youtube.com/watch?v=ZAs8zjs4Eck)
 - [[NEW] - Autoscaling an Instance Group with Custom Cloud Monitoring Metrics - [GSP087]](https://www.youtube.com/watch?v=-IVAaIPDp2I)
 - [[NEW] - Examining BigQuery Billing Data in Google Sheets - [GSP623]](https://www.youtube.com/watch?v=zL3_lYw1OqI)
 - [[NEW] - Visualizing Billing Data with Google Data Studio - [GSP622]](https://www.youtube.com/watch?v=5cJTwGvoA6E)
-- [[NEW] - Analyzing Billing Data with BigQuery - [GSP621]](https://www.youtube.com/watch?v=EnIrPdNQBow)
 <!-- YOUTUBE:END -->
 
 # My StackOverflow Activity
