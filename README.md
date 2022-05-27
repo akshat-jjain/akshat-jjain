@@ -84,11 +84,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[NEW] - Weather Data in BigQuery - [GSP009]](https://www.youtube.com/watch?v=jXpnmBpWW0w)
 - [[NEW] - Reporting Application Metrics into Cloud Monitoring - [GSP111]](https://www.youtube.com/watch?v=ZccMryDK_d0)
 - [[NEW] - Monitoring and Logging for Cloud Functions - [GSP092]](https://www.youtube.com/watch?v=w0O_GTp0j9w)
 - [[NEW] - Monitoring Multiple Projects with Cloud Monitoring - [GSP090]](https://www.youtube.com/watch?v=ST7ml8W6hSE)
 - [[NEW] - Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine - [GSP114]](https://www.youtube.com/watch?v=GH6-PGzNbXM)
-- [[NEW] - Distributed Load Testing Using Kubernetes - [GSP182]](https://www.youtube.com/watch?v=yEHH-8bgy5E)
 <!-- YOUTUBE:END -->
 
 # My StackOverflow Activity
