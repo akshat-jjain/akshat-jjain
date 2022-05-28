@@ -84,11 +84,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[NEW] - App Engine Qwik Start - Python - [GSP067]](https://www.youtube.com/watch?v=lHJ1gp-HouU)
 - [[NEW] - Google Assistant Build a Restaurant Locator with the Places API - [GSP486]](https://www.youtube.com/watch?v=UoEjifPQrj8)
 - [[NEW] - Entity and Sentiment Analysis with the Natural Language API - [GSP038]](https://www.youtube.com/watch?v=vYgZ1u15oSg)
 - [[NEW] - Weather Data in BigQuery - [GSP009]](https://www.youtube.com/watch?v=jXpnmBpWW0w)
 - [[NEW] - Reporting Application Metrics into Cloud Monitoring - [GSP111]](https://www.youtube.com/watch?v=ZccMryDK_d0)
-- [[NEW] - Monitoring and Logging for Cloud Functions - [GSP092]](https://www.youtube.com/watch?v=w0O_GTp0j9w)
 <!-- YOUTUBE:END -->
 
 # My StackOverflow Activity
