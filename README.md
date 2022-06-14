@@ -84,11 +84,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[NEW] - Predict Visitor Purchases with a Classification Model in BQML - [GSP229]](https://www.youtube.com/watch?v=YcatAwsTJTM)
 - [[NEW] - Getting Started with BigQuery Machine Learning - [GSP247]](https://www.youtube.com/watch?v=wXSH5yrmolU)
 - [[NEW] - Big Data Analysis to a Slide Presentation - [GSP240]](https://www.youtube.com/watch?v=7FQCrPSkvBU)
 - [[NEW] - Explore and Create Reports with Data Studio - [GSP409]](https://www.youtube.com/watch?v=D4zgPgk-NxA)
 - [[NEW] - Troubleshooting Common SQL Errors with BigQuery - [GSP408]](https://www.youtube.com/watch?v=cIMYk29E_7M)
-- [[NEW] - Exploring Your Ecommerce Dataset with SQL in Google BigQuery - [GSP407]](https://www.youtube.com/watch?v=2Yic4toAh5o)
 <!-- YOUTUBE:END -->
 
 # My StackOverflow Activity
