@@ -84,11 +84,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[NEW] - Dataproc: Qwik Start - Console - [GSP103]](https://www.youtube.com/watch?v=pdhW_QIyFbU)
 - [[NEW] - Dataflow: Qwik Start - Templates - [GSP192]](https://www.youtube.com/watch?v=8yj1IjkQ4u0)
 - [[NEW] - Dataprep: Qwik Start - [GSP105]](https://www.youtube.com/watch?v=PKZJMPMBx9A)
 - [[NEW] -  Rent-a-VM to Process Earthquake Data- [GSP008]](https://www.youtube.com/watch?v=qbhZtkIeMbg)
 - [[NEW] - Connect to Cloud SQL from an Application in Kubernetes Engine - [GSP449]](https://www.youtube.com/watch?v=ciIrPy4mTlU)
-- [[NEW] - Cloud SQL with Terraform - [GSP234]](https://www.youtube.com/watch?v=WeUf6R8CiI4)
 <!-- YOUTUBE:END -->
 
 # My StackOverflow Activity
