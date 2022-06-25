@@ -97,7 +97,7 @@
 - [Answer by Akshat Jain for Resetting Table content on button click wont work](https://stackoverflow.com/questions/68342492/resetting-table-content-on-button-click-wont-work/68342769#68342769)
 - [Answer by Akshat Jain for Remove body element](https://stackoverflow.com/questions/2899649/remove-body-element/68338294#68338294)
 - [Answer by Akshat Jain for PHP upload HTML file and display link on index](https://stackoverflow.com/questions/68337637/php-upload-html-file-and-display-link-on-index/68338201#68338201)
-- [is there any way to update sitemap](https://stackoverflow.com/questions/68094866/is-there-any-way-to-update-sitemap)
+- [Answer by Akshat Jain for Not showing placeholder for input type=&quot;date&quot; field](https://stackoverflow.com/questions/20321202/not-showing-placeholder-for-input-type-date-field/68087280#68087280)
 <!-- STACKOVERFLOW:END -->
  
 <h3 align="left">Support:</h3>
